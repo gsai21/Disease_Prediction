@@ -11,3 +11,5 @@ Make sure you have the following prerequisites installed :
 
 # Algorithm Explored
 The algorithm explored in the code is Support Vector Machine.
+
+# NOTE: The prediction model in this repository is intended for informational purposes only and should not be considered as a substitute for diagnosis.

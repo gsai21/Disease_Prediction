@@ -4,7 +4,10 @@ This model predicts Diabetes and Parkinson's disease.
 
 # Prerequisites
 Make sure you have the following prerequisites installed :
-Python 3.7
-Numpy
-Pandas
-Scikit-learn
+  1.Python 3.7
+  2.Numpy
+  3.Pandas
+  4.Scikit-learn
+
+# Algorithm Explored
+The algorithm explored in the code is Support Vector Machine.

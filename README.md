@@ -18,7 +18,7 @@ Make sure you have the following prerequisites installed :
   4. Scikit-learn
 
 # Algorithm Explored
-The algorithm explored in the code is Support Vector Machine.
+The algorithm explored in the code is Support Vector Machine. It is a supervised machine-learning algorithm that is widely used for classification tasks. SVMs are particularly effective when working with complex datasets that have a clear margin of separation between different classes.
 
 # Evaluation
 Accuracy score and F1 score are used for evaluating the accuracy of the model.

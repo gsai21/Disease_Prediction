@@ -2,6 +2,7 @@
 Diabetes is a chronic medical condition characterized by high blood sugar levels. It occurs when the body doesn't produce enough insulin.
 According to International Diabetes Federation(IDF), in 2021, approximately 463 million adults were living with diabetes worldwide. This number is expected to rise to 700 million by 2045 if the current trend continues. 
 
+![Image Alt Text](https://img.freepik.com/premium-vector/parkinsons-disease-cartoon_18591-15566.jpg?w=2000)
 Parkinson's disease is a neurodegenerative disorder that affects movement control. The loss of neurons leads to a shortage of dopamine, a chemical messenger responsible for transmitting signals that coordinate movement. There is no cure available for this disease, but various treatment options are available to manage symptoms and improve quality of life.
 
 Thus preventing Diabetes and Parkinson's disease has become more than necessary. Good Machine Learning systems for predicting these diseases can improve the entire research and prevention process. A robust system can be developed in the near future, making sure that more people can live healthy lives.

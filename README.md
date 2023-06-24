@@ -4,7 +4,7 @@
 Diabetes is a chronic medical condition characterized by high blood sugar levels. It occurs when the body doesn't produce enough insulin.
 According to International Diabetes Federation(IDF), in 2021, approximately 463 million adults were living with diabetes worldwide. This number is expected to rise to 700 million by 2045 if the current trend continues. 
 
-![Image Alt Text](https://media.istockphoto.com/id/917444138/vector/parkinsons-disease-cartoon.jpg?s=1024x1024&w=is&k=20&c=Ug_vnWk98pj65SYDG4XOyrhIvneOoAY_GTGZ7zKYZMU=)
+![Image Alt Text](https://media.istockphoto.com/id/1307564901/vector/parkinson-disease-cartoon.jpg?s=612x612&w=0&k=20&c=V6UuTbYcqSzYV7wMZnIfWMnJat2KHh7YloQZi1MUBXw=)
 
 Parkinson's disease is a neurodegenerative disorder that affects movement control. The loss of neurons leads to a shortage of dopamine, a chemical messenger responsible for transmitting signals that coordinate movement. There is no cure available for this disease, but various treatment options are available to manage symptoms and improve quality of life.
 

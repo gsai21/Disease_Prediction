@@ -1,5 +1,6 @@
 # Introduction
 ![Image Alt Text](https://media.istockphoto.com/id/1272421423/vector/tiny-doctor-insert-sample-with-blood-into-digital-glucose-meter-to-control-diabetes-sickness.jpg?s=170667a&w=0&k=20&c=6GyC6wwx8CFoU0K4-9XMARhszSfs1LutZfREoW7ZOiE=)
+
 Diabetes is a chronic medical condition characterized by high blood sugar levels. It occurs when the body doesn't produce enough insulin.
 According to International Diabetes Federation(IDF), in 2021, approximately 463 million adults were living with diabetes worldwide. This number is expected to rise to 700 million by 2045 if the current trend continues. 
 
